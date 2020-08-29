@@ -1,0 +1,14 @@
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\bin\Debug\jogo_dados.exe
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\bin\Debug\jogo_dados.pdb
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.csprojResolveAssemblyReference.cache
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.MainForm.resources
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.csproj.GenerateResource.Cache
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.exe
+F:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.pdb
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\bin\Debug\jogo_dados.exe
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\bin\Debug\jogo_dados.pdb
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.csprojResolveAssemblyReference.cache
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.MainForm.resources
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.csproj.GenerateResource.Cache
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.exe
+H:\Etec Embu\000 - 1º DSN\002 - PA\003 - Windows Forms\jogo_dados\jogo_dados\obj\Debug\jogo_dados.pdb
